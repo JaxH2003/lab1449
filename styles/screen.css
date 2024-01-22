@@ -5,7 +5,7 @@ p {
     font-size: 35px;
     position: center;
 }
-.container {
+.image-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
