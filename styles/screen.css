@@ -13,4 +13,5 @@ h1 {
 .image-container {
     display:flex;
     align-items:center;
+    margin-left: 250px;
 }
