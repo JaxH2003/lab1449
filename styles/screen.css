@@ -18,6 +18,9 @@ h1 {
     margin-right: 500px;
     
 }
+
+
+
 .image-container img:hover {
-    border-color:black;
+    background-color:black;
 }
