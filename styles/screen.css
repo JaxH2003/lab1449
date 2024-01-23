@@ -4,23 +4,25 @@ html {
 p {
     font-size: 35px;
     text-align:center;
+    margin:80px;
 }
 h1 {
     text-align:center;
     font-size: 50px;
 
 }
+ 
 .image-container {
     display:flex;
     align-items:center;
     justify-content:space-around;
     margin-left: 500px;
     margin-right: 500px;
-    
+}
+    .image-container img:hover {
+    background-color: darkgrey;
 }
 
 
 
-.image-container img:hover {
-    background-color:black;
-}
+
